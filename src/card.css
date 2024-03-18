@@ -1,0 +1,15 @@
+.group .union-wrapper {
+    height: 32px;
+    left: 356px;
+    position: absolute;
+    top: 99px;
+    width: 17px;
+  }
+  
+  .group .union {
+    height: 17px;
+    left: -8px;
+    position: absolute;
+    top: 8px;
+    width: 32px;
+  }

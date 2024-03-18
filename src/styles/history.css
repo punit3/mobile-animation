@@ -1,0 +1,275 @@
+.history {
+    background-color: rgba(255, 255, 255, 1);
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .history .div-2 {
+    background: linear-gradient(180deg, rgb(25.77, 36.32, 63.75) 0%, rgb(49.3, 59.62, 92.44) 100%);
+    background-color: rgba(255, 255, 255, 1);
+    height: 812px;
+    overflow: hidden;
+    position: relative;
+    width: 375px;
+  }
+  
+  .history .overlap {
+    height: 150px;
+    left: 0;
+    position: absolute;
+    top: 730px;
+    width: 375px;
+  }
+  
+  .history .group-6 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 10px !important;
+  }
+  
+  .history .group-instance {
+    left: 263px !important;
+  }
+  
+  .history .group-6-instance {
+    background: linear-gradient(180deg, rgb(236, 91, 143.2) 0%, rgb(217.81, 49.01, 129.34) 100%) !important;
+    box-shadow: 0px 0px 14px #ec5ba04c, inset 0px 2px 2px #8e0d4880 !important;
+  }
+  
+  .history .design-component-instance-node {
+    width: 110px !important;
+  }
+  
+  .history .group-4 {
+    left: -1095px !important;
+    top: -256px !important;
+  }
+  
+  .history .group-5 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 88px !important;
+  }
+  
+  .history .group-7 {
+    left: 269px !important;
+  }
+  
+  .history .footer {
+    background-color: transparent;
+    height: 118px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 375px;
+  }
+  
+  .history .footer-menu-wrapper {
+    background-image: url(https://c.animaapp.com/icPYuxia/img/vector.svg);
+    background-size: 100% 100%;
+    height: 82px;
+    width: 375px;
+  }
+  
+  .history .footer-menu {
+    height: 58px;
+    left: 19px;
+    position: relative;
+    top: 13px;
+    width: 337px;
+  }
+  
+  .history .menu {
+    border-radius: 29px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 58px;
+    left: 279px;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .history .union {
+    height: 24px;
+    left: 17px;
+    position: absolute;
+    top: 17px;
+    width: 24px;
+  }
+  
+  .history .path-wrapper {
+    background: linear-gradient(180deg, rgb(93, 158, 255) 0%, rgb(119, 81, 253) 100%);
+    border-radius: 29px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 58px;
+    left: 186px;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .history .img-2 {
+    height: 22px;
+    left: 18px;
+    position: absolute;
+    top: 18px;
+    width: 22px;
+  }
+  
+  .history .scan {
+    border-radius: 29px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 58px;
+    left: 93px;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .history .home {
+    border-radius: 29px;
+    box-shadow: 0px 4px 4px #00000040;
+    height: 58px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .history .path {
+    height: 20px;
+    left: 19px;
+    position: absolute;
+    top: 19px;
+    width: 20px;
+  }
+  
+  .history .group-2-instance {
+    left: 20px !important;
+    position: absolute !important;
+    top: 662px !important;
+  }
+  
+  .history .group-8 {
+    left: 245px !important;
+  }
+  
+  .history .group-9 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 370px !important;
+  }
+  
+  .history .group-10 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 448px !important;
+  }
+  
+  .history .vector-3 {
+    height: 14px !important;
+    left: 13px !important;
+    position: absolute !important;
+    top: 13px !important;
+    width: 14px !important;
+  }
+  
+  .history .group-11 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 526px !important;
+  }
+  
+  .history .group-12 {
+    left: 244px !important;
+  }
+  
+  .history .text-wrapper-7 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 20px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 169px;
+    white-space: nowrap;
+  }
+  
+  .history .text-wrapper-8 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 20px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 617px;
+    white-space: nowrap;
+  }
+  
+  .history .group-13 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 214px !important;
+  }
+  
+  .history .group-3-instance {
+    left: 20px !important;
+    position: absolute !important;
+    top: 292px !important;
+  }
+  
+  .history .icon-1 {
+    height: 68px !important;
+    left: -14px !important;
+    position: absolute !important;
+    top: -11px !important;
+    width: 68px !important;
+  }
+  
+  .history .overlap-2 {
+    height: 140px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 375px;
+  }
+  
+  .history .design-component-instance-node-2 {
+    left: 0 !important;
+    position: absolute !important;
+    top: 0 !important;
+  }
+  
+  .bars-navigation-bar {
+    height: 140px;
+    position: relative;
+    width: 375px;
+  }
+  
+  .bars-navigation-bar .large-title {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 32px;
+    font-weight: 700;
+    left: 15px;
+    letter-spacing: 0.37px;
+    line-height: 41px;
+    position: absolute;
+    top: 89px;
+    width: 173px;
+  }
+  
+  .bars-navigation-bar .ellipse {
+    height: 36px;
+    left: 319px;
+    object-fit: cover;
+    position: absolute;
+    top: 94px;
+    width: 36px;
+  }

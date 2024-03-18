@@ -1,0 +1,41 @@
+.bars-navigation-bar {
+  height: 140px;
+  position: relative;
+  width: 375px;
+}
+
+.bars-navigation-bar .large-title {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 32px;
+  font-weight: 700;
+  left: 15px;
+  letter-spacing: 0.37px;
+  line-height: 41px;
+  position: absolute;
+  top: 89px;
+  width: 173px;
+}
+
+.bars-navigation-bar .ellipse {
+  height: 36px;
+  left: 319px;
+  object-fit: cover;
+  position: absolute;
+  top: 94px;
+  width: 36px;
+}
+
+.bars-navigation-bar .title {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 17px;
+  font-weight: 900;
+  left: 32px;
+  letter-spacing: -0.41px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 53px;
+  width: 311px;
+}

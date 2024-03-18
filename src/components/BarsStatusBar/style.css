@@ -1,0 +1,80 @@
+.bars-status-bar {
+  height: 44px;
+  position: relative;
+  width: 375px;
+}
+
+.bars-status-bar .battery {
+  height: 11px;
+  left: 336px;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.bars-status-bar .overlap-group {
+  border: 1px solid;
+  border-color: #ffffff59;
+  border-radius: 2.67px;
+  height: 11px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 22px;
+}
+
+.bars-status-bar .capacity {
+  background-color: #ffffff;
+  border-radius: 1.33px;
+  height: 7px;
+  left: 1px;
+  position: relative;
+  top: 1px;
+  width: 18px;
+}
+
+.bars-status-bar .cap {
+  height: 4px;
+  left: 23px;
+  position: absolute;
+  top: 4px;
+  width: 1px;
+}
+
+.bars-status-bar .wifi {
+  height: 11px;
+  left: 316px;
+  position: absolute;
+  top: 17px;
+  width: 15px;
+}
+
+.bars-status-bar .cellular-connection {
+  height: 11px;
+  left: 294px;
+  position: absolute;
+  top: 18px;
+  width: 17px;
+}
+
+.bars-status-bar .time-style {
+  height: 21px;
+  left: 21px;
+  position: absolute;
+  top: 7px;
+  width: 54px;
+}
+
+.bars-status-bar .time {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 15px;
+  font-weight: 900;
+  left: 0;
+  letter-spacing: -0.3px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 6px;
+  width: 54px;
+}

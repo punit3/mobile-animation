@@ -1,0 +1,152 @@
+.group {
+  height: 260px;
+  transform: rotate(-90deg);
+  width: 410px;
+}
+
+.group .overlap {
+  height: 260px;
+  position: relative;
+}
+
+.group .div {
+  height: 260px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 410px;
+}
+
+.group .mask-group {
+  height: 410px;
+  left: 75px;
+  position: absolute;
+  top: -75px;
+  transform: rotate(90deg);
+  width: 260px;
+}
+
+.group .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 28px;
+  font-weight: 900;
+  left: 37px;
+  letter-spacing: 2.37px;
+  line-height: 32px;
+  position: absolute;
+  top: 26px;
+  width: 51px;
+}
+
+.group .text-wrapper-2 {
+  color: #ffffff99;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 117px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 26px;
+  width: 110px;
+}
+
+.group .line {
+  height: 1px;
+  left: 93px;
+  object-fit: cover;
+  position: absolute;
+  top: 46px;
+  transform: rotate(90deg);
+  width: 20px;
+}
+
+.group .rectangle {
+  background-color: #ffffff4c;
+  border-radius: 10px;
+  height: 49px;
+  left: 37px;
+  position: absolute;
+  top: 91px;
+  width: 59px;
+}
+
+.group .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 22px;
+  font-weight: 900;
+  left: 37px;
+  letter-spacing: 0.22px;
+  line-height: normal;
+  position: absolute;
+  top: 158px;
+  width: 304px;
+}
+
+.group .text-wrapper-4 {
+  color: #ffffff99;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 37px;
+  letter-spacing: 0.14px;
+  line-height: normal;
+  position: absolute;
+  top: 201px;
+  width: 50px;
+}
+
+.group .mc-vrt-rev {
+  height: 55px;
+  left: 327px;
+  position: absolute;
+  top: 198px;
+  transform: rotate(90deg);
+  width: 45px;
+}
+
+.group .union-wrapper {
+  height: 32px;
+  left: 356px;
+  position: absolute;
+  top: 99px;
+  width: 17px;
+}
+
+.group .union {
+  height: 17px;
+  left: -8px;
+  position: absolute;
+  top: 8px;
+  width: 32px;
+}
+
+/* 
+.container {
+  padding: 10px 150px;
+}
+
+p {
+  font-size: 14px;
+  text-align: justify;
+}
+
+.caroussel-content {
+  margin-left: -10px;
+  margin-right: -10px;
+}
+
+[class*="col-"] {
+  padding: 10px;
+}
+
+.card {
+  width: 100%;
+  background-color: #fff;
+  padding: 15px;
+  border-radius: 4px;
+  box-shadow: 0 3px 1px -2px rgb(0 0 0/20%), 0 2px 2px 0 rgb(0 0 0/14%),
+    0 1px 5px 0 rgb(0 0 0/12%);
+} */

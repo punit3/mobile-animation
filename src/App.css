@@ -36,3 +36,267 @@
     transform: rotate(360deg);
   }
 }
+/* 
+.bank-cards {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.bank-cards .overlap-wrapper {
+  background: linear-gradient(180deg, rgb(25.77, 36.32, 63.75) 0%, rgb(49.3, 59.62, 92.44) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.bank-cards .overlap {
+  height: 913px;
+  left: -79px;
+  position: relative;
+  top: -43px;
+  width: 515px;
+}
+
+.bank-cards .BG {
+  height: 913px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 515px;
+}
+
+.bank-cards .overlap-group-2 {
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 511px;
+}
+
+.bank-cards .ellipse-2 {
+  background-color: #19233d;
+  border-radius: 168px/194.5px;
+  filter: blur(114px);
+  height: 389px;
+  left: 175px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.bank-cards .ellipse-3 {
+  background-color: #4c57794c;
+  border-radius: 186.5px/199.5px;
+  filter: blur(114px);
+  height: 399px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 373px;
+}
+
+.bank-cards .ellipse-4 {
+  background-color: #090f1e;
+  border-radius: 168px/194.5px;
+  filter: blur(114px);
+  height: 389px;
+  left: 179px;
+  position: absolute;
+  top: 524px;
+  width: 336px;
+}
+
+.bank-cards .design-component-instance-node {
+  left: 79px !important;
+  position: absolute !important;
+  top: 43px !important;
+}
+
+.bank-cards .arrow {
+  height: 20px;
+  left: 99px;
+  position: absolute;
+  top: 98px;
+  width: 20px;
+}
+
+.bank-cards .overlap-group-wrapper {
+  height: 212px;
+  left: 99px;
+  position: absolute;
+  top: 223px;
+  width: 337px;
+}
+
+.bank-cards .overlap-2-back {
+  background-image: url(https://c.animaapp.com/8LSmVXgi/img/group-9@2x.png);
+  background-size: 100% 100%;
+  height: 212px;
+  position: relative;
+  width: 335px;
+}
+
+.bank-cards .rectangle-back {
+  background-color: #00000099;
+  height: 56px;
+  left: 0;
+  position: absolute;
+  top: 30px;
+  width: 335px;
+}
+
+.bank-cards .overlap-group-3 {
+  background-color: #ffffff4c;
+  border-radius: 4px;
+  height: 44px;
+  left: 17px;
+  position: absolute;
+  top: 102px;
+  width: 302px;
+}
+
+.bank-cards .text-wrapper-10-back {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20px;
+  font-weight: 900;
+  left: 250px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 10px;
+}
+
+.bank-cards .group-4 {
+  height: 56px;
+  left: 99px;
+  position: absolute;
+  top: 467px;
+  width: 136px;
+}
+
+.bank-cards .text-wrapper-11 {
+  color: #ffffff80;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.bank-cards .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 26px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.bank-cards .share-wrapper {
+  border: 1px solid;
+  border-color: #ffffff33;
+  border-radius: 10px;
+  height: 54px;
+  left: 316px;
+  position: absolute;
+  top: 468px;
+  width: 54px;
+}
+
+.bank-cards .share {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
+
+.bank-cards .img-wrapper {
+  border: 1px solid;
+  border-color: #ffffff33;
+  border-radius: 10px;
+  height: 54px;
+  left: 380px;
+  position: absolute;
+  top: 468px;
+  width: 54px;
+}
+
+.bank-cards .group-5 {
+  height: 302px;
+  left: 79px;
+  position: absolute;
+  top: 553px;
+  width: 377px;
+}
+
+.bank-cards .overlap-3 {
+  background-color: #1c2641;
+  border-radius: 20px 20px 0px 0px;
+  height: 302px;
+  position: relative;
+  width: 375px;
+}
+
+.bank-cards .group-6 {
+  left: 20px !important;
+  position: absolute !important;
+  top: 230px !important;
+}
+
+.bank-cards .rectangle-2 {
+  background-color: #2d3757;
+  border-radius: 9px;
+  height: 3px;
+  left: 160px;
+  position: absolute;
+  top: 10px;
+  width: 55px;
+}
+
+.bank-cards .text-wrapper-13 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.bank-cards .group-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 74px !important;
+}
+
+.bank-cards .group-3-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 152px !important;
+}
+
+.bank-cards .icon-2 {
+  height: 68px !important;
+  left: -14px !important;
+  position: absolute !important;
+  top: -11px !important;
+  width: 68px !important;
+}
+ */

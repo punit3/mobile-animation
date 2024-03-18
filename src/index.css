@@ -11,3 +11,337 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.splash {
+  background-color: #0c111e;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.splash .div {
+  background-color: #0c111e;
+  height: 812px;
+  position: relative;
+  width: 375px;
+}
+
+.splash .oflogomini {
+  height: 146px;
+  left: 38px;
+  position: absolute;
+  top: 294px;
+  width: 263px;
+}
+.card-page {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.card-page .overlap-wrapper {
+  background: linear-gradient(180deg, rgb(25.77, 36.32, 63.75) 0%, rgb(49.3, 59.62, 92.44) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 812px;
+  overflow: hidden;
+  width: 375px;
+}
+
+.card-page .overlap {
+  height: 913px;
+  left: -79px;
+  position: relative;
+  top: -43px;
+  width: 515px;
+}
+
+.card-page .BG {
+  height: 913px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 515px;
+}
+
+.card-page .overlap-group-2 {
+  height: 433px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 511px;
+}
+
+.card-page .ellipse-2 {
+  background-color: #19233d;
+  border-radius: 168px/194.5px;
+  filter: blur(114px);
+  height: 389px;
+  left: 175px;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.card-page .ellipse-3 {
+  background-color: #4c57794c;
+  border-radius: 186.5px/199.5px;
+  filter: blur(114px);
+  height: 399px;
+  left: 0;
+  position: absolute;
+  top: 34px;
+  width: 373px;
+}
+
+.card-page .ellipse-4 {
+  background-color: #090f1e;
+  border-radius: 168px/194.5px;
+  filter: blur(114px);
+  height: 389px;
+  left: 179px;
+  position: absolute;
+  top: 524px;
+  width: 336px;
+}
+
+.card-page .design-component-instance-node {
+  left: 79px !important;
+  position: absolute !important;
+  top: 43px !important;
+}
+
+.card-page .arrow {
+  height: 20px;
+  left: 99px;
+  position: absolute;
+  top: 98px;
+  width: 20px;
+}
+
+.card-page .overlap-group-wrapper {
+  height: 212px;
+  left: 99px;
+  position: absolute;
+  top: 223px;
+  width: 343px;
+}
+
+.card-page .overlap-2 {
+  background-image: url(https://c.animaapp.com/Hg1gzQz1/img/mask-group@2x.png);
+  background-size: 100% 100%;
+  height: 212px;
+  position: relative;
+  width: 335px;
+}
+
+.card-page .text-wrapper-10 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 28px;
+  font-weight: 900;
+  left: 30px;
+  letter-spacing: 2.37px;
+  line-height: 32px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.card-page .text-wrapper-11 {
+  color: #ffffff99;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 500;
+  left: 96px;
+  letter-spacing: 0;
+  line-height: 32px;
+  position: absolute;
+  top: 22px;
+  white-space: nowrap;
+}
+
+.card-page .line-3 {
+  height: 16px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 1px;
+}
+
+.card-page .rectangle {
+  background-color: #ffffff4c;
+  border-radius: 10px;
+  height: 40px;
+  left: 30px;
+  position: absolute;
+  top: 74px;
+  width: 48px;
+}
+
+.card-page .group-4 {
+  background-image: url(https://c.animaapp.com/Hg1gzQz1/img/union.svg);
+  background-size: 100% 100%;
+  height: 26px;
+  left: 291px;
+  position: absolute;
+  top: 81px;
+  width: 14px;
+}
+
+.card-page .text-wrapper-12 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 22px;
+  font-weight: 900;
+  left: 30px;
+  letter-spacing: 0.22px;
+  line-height: normal;
+  position: absolute;
+  top: 130px;
+}
+
+.card-page .text-wrapper-13 {
+  color: #ffffff99;
+  font-family: "Poppins", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 30px;
+  letter-spacing: 0.14px;
+  line-height: normal;
+  position: absolute;
+  top: 165px;
+}
+
+.card-page .mc-vrt-rev {
+  height: 37px;
+  left: 263px;
+  position: absolute;
+  top: 165px;
+  width: 45px;
+}
+
+.card-page .group-5 {
+  height: 56px;
+  left: 99px;
+  position: absolute;
+  top: 467px;
+  width: 136px;
+}
+
+.card-page .text-wrapper-14 {
+  color: #94a3d3;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+}
+
+.card-page .text-wrapper-15 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 26px;
+  font-weight: 700;
+  left: 0;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.card-page .share-wrapper {
+  border: 1px solid;
+  border-color: #ffffff33;
+  border-radius: 10px;
+  height: 54px;
+  left: 316px;
+  position: absolute;
+  top: 468px;
+  width: 54px;
+}
+
+.card-page .share {
+  height: 20px;
+  left: 16px;
+  position: absolute;
+  top: 16px;
+  width: 20px;
+}
+
+.card-page .img-wrapper {
+  border: 1px solid;
+  border-color: #ffffff33;
+  border-radius: 10px;
+  height: 54px;
+  left: 380px;
+  position: absolute;
+  top: 468px;
+  width: 54px;
+}
+
+.card-page .group-6 {
+  height: 302px;
+  left: 79px;
+  position: absolute;
+  top: 553px;
+  width: 377px;
+}
+
+.card-page .overlap-3 {
+  background-color: #1c2641;
+  border-radius: 20px 20px 0px 0px;
+  height: 302px;
+  position: relative;
+  width: 375px;
+}
+
+.card-page .group-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 230px !important;
+}
+
+.card-page .rectangle-2 {
+  background-color: #2d3757;
+  border-radius: 9px;
+  height: 4px;
+  left: 165px;
+  position: absolute;
+  top: 10px;
+  width: 45px;
+}
+
+.card-page .text-wrapper-16 {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 16px;
+  font-weight: 700;
+  left: 20px;
+  letter-spacing: 0.3px;
+  line-height: 26px;
+  position: absolute;
+  top: 30px;
+  white-space: nowrap;
+}
+
+.card-page .group-2-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 74px !important;
+}
+
+.card-page .group-3-instance {
+  left: 20px !important;
+  position: absolute !important;
+  top: 152px !important;
+}
+

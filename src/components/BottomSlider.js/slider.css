@@ -1,0 +1,395 @@
+.div-wrapper {
+    height: 62px;
+    position: relative;
+    width: 355px;
+  }
+  
+  .div-wrapper .text-wrapper-4 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 254px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .group-3 {
+    height: 46px;
+    left: 54px;
+    position: absolute;
+    top: 0;
+    width: 105px;
+  }
+  
+  .div-wrapper .text-wrapper-5 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .text-wrapper-6 {
+    color: #94a3d3;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    position: absolute;
+    top: 26px;
+    white-space: nowrap;
+  }
+  
+  .div-wrapper .line-2 {
+    height: 1px;
+    left: 54px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 301px;
+    transform: rotate(0deg);
+  }
+  
+  .div-wrapper .icon-instance {
+    height: 68px !important;
+    left: -14px !important;
+    position: absolute !important;
+    top: -11px !important;
+    width: 68px !important;
+  }
+
+  .group-slider{
+    height: 62px;
+    position: relative;
+    width: 355px;
+    transform: rotate(0deg);
+  }
+  
+  .group-slider .element {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 254px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .group-slider .car-wrapper {
+    background: linear-gradient(180deg, rgb(60.56, 161.67, 255) 0%, rgb(33.02, 103.43, 240.12) 100%);
+    border-radius: 20px;
+    box-shadow: 0px 0px 14px #3da2ff40, inset 0px 2px 2px #164bac80;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 40px;
+  }
+  
+  .group-slider .div {
+    height: 46px;
+    left: 54px;
+    position: absolute;
+    top: 0;
+    width: 58px;
+  }
+  
+  .group-slider .uber {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .group-slider .text-wrapper {
+    color: #94a3d3;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    position: absolute;
+    top: 26px;
+    white-space: nowrap;
+  }
+  
+  .group-slider .line {
+    height: 1px;
+    left: 54px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 301px;
+    transform: rotate(0deg);
+  }
+  
+  .group-slider .car {
+    height: 14px !important;
+    left: 13px !important;
+    position: absolute !important;
+    top: 13px !important;
+    width: 14px !important;
+  }
+
+  .group-wrapper {
+    height: 62px;
+    position: relative;
+    width: 355px;
+  }
+  
+  .group-wrapper .element-2 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 256px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    text-align: right;
+    top: 9px;
+    white-space: nowrap;
+  }
+  
+  .group-wrapper .vector-wrapper {
+    background: linear-gradient(180deg, rgb(236, 91, 143.2) 0%, rgb(217.81, 49.01, 129.34) 100%);
+    border-radius: 20px;
+    box-shadow: 0px 0px 14px #ec5ba04c, inset 0px 2px 2px #8e0d4880;
+    height: 40px;
+    left: 0;
+    position: absolute;
+    top: 3px;
+    width: 40px;
+  }
+  
+  .group-wrapper .vector {
+    height: 13px;
+    left: 13px;
+    position: absolute;
+    top: 13px;
+    width: 14px;
+  }
+  
+  .group-wrapper .group-2-slider {
+    height: 46px;
+    left: 54px;
+    position: absolute;
+    top: 0;
+    width: 110px;
+  }
+  
+  .group-wrapper .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .group-wrapper .text-wrapper-3 {
+    color: #94a3d3;
+    font-family: "Poppins", Helvetica;
+    font-size: 14px;
+    font-weight: 500;
+    left: 0;
+    letter-spacing: 0.3px;
+    line-height: 20px;
+    position: absolute;
+    top: 26px;
+    white-space: nowrap;
+  }
+  
+  .group-wrapper .img {
+    height: 1px;
+    left: 54px;
+    object-fit: cover;
+    position: absolute;
+    top: 61px;
+    width: 301px;
+    transform: rotate(0deg);
+  }
+
+
+.bank-cards .group-6 {
+    height: 740px;
+    left: 79px;
+    position: absolute;
+    top: 137px;
+    width: 379px;
+    z-index: 2;
+  }
+  
+  .bank-cards .overlap-4 {
+    height: 740px;
+    position: relative;
+    width: 375px;
+  }
+  
+  .bank-cards .rectangle-2 {
+    background-color: #1c2641;
+    border-radius: 20px 20px 0px 0px;
+    height: 718px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 375px;
+  }
+  
+  .bank-cards .group-instance {
+    left: 20px !important;
+    position: absolute !important;
+    top: 230px !important;
+  }
+  
+  .bank-cards .group-6-instance {
+    left: 263px !important;
+  }
+  
+  .bank-cards .group-7 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 308px !important;
+  }
+  
+  .bank-cards .group-8-slider {
+    left: 20px !important;
+    position: absolute !important;
+    top: 600px !important;
+  }
+  
+  .bank-cards .group-9 {
+    background: linear-gradient(180deg, rgb(236, 91, 143.2) 0%, rgb(217.81, 49.01, 129.34) 100%) !important;
+    box-shadow: 0px 0px 14px #ec5ba04c, inset 0px 2px 2px #8e0d4880 !important;
+  }
+  
+  .bank-cards .vector-4 {
+    height: 14px !important;
+    left: 13px !important;
+    position: absolute !important;
+    top: 13px !important;
+    width: 14px !important;
+  }
+  
+  .bank-cards .group-10 {
+    width: 110px !important;
+  }
+  
+  .bank-cards .group-11 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 386px !important;
+  }
+  
+  .bank-cards .group-12 {
+    left: 244px !important;
+  }
+  
+  .bank-cards .group-13 {
+    left: -265px !important;
+    top: -210px !important;
+  }
+  
+  .bank-cards .group-14 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 678px !important;
+  }
+  
+  .bank-cards .group-15 {
+    left: 269px !important;
+  }
+  
+  .bank-cards .group-2-instance {
+    left: 20px !important;
+    position: absolute !important;
+    top: 522px !important;
+  }
+  
+  .bank-cards .group-16 {
+    left: 245px !important;
+  }
+  
+  .bank-cards .rectangle-3 {
+    background-color: #2d3757;
+    border-radius: 9px;
+    height: 3px;
+    left: 160px;
+    position: absolute;
+    top: 10px;
+    width: 55px;
+  }
+  
+  .bank-cards .text-wrapper-slider-20 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 20px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 30px;
+    white-space: nowrap;
+  }
+  
+  .bank-cards .text-wrapper-slider-30 {
+    color: #ffffff;
+    font-family: "Poppins", Helvetica;
+    font-size: 16px;
+    font-weight: 700;
+    left: 20px;
+    letter-spacing: 0.3px;
+    line-height: 26px;
+    position: absolute;
+    top: 478px;
+    white-space: nowrap;
+  }
+  
+  .bank-cards .group-17 {
+    left: 20px !important;
+    position: absolute !important;
+    top: 74px !important;
+  }
+  
+  .bank-cards .group-3-instance {
+    left: 20px !important;
+    position: absolute !important;
+    top: 152px !important;
+  }
+  
+  .bank-cards .icon-2 {
+    height: 68px !important;
+    left: -14px !important;
+    position: absolute !important;
+    top: -11px !important;
+    width: 68px !important;
+  }
+  
